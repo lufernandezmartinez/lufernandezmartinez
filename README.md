@@ -2,6 +2,7 @@
 <h1 align="center">Luis Fernández</h1>
 <!-- Quote -->
 <p align="center">FullStack Developer</p>
+<div align="center">
 <table>
   <tr>
     <td>1</td>
@@ -9,7 +10,7 @@
     <td>3</td>
   </tr>
 </table>    
-
+</div>
 <!-- GitHub Stats -->
 <div align="center">
 <a href="https://github.com/lufermy?tab=repositories">
