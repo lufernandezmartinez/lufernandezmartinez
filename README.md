@@ -11,9 +11,7 @@
         </p>
         
 <a href="https://github.com/lufermy?tab=repositories">
-    <img align="center" 
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=lufermy&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
-              alt='Lufermy's favorite languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lufermy&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" alt='Lufermy's favorite languages"/>
 </a>
     
 <a href="https://github.com/lufermy">
