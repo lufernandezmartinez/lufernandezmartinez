@@ -1,20 +1,10 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2577
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 AppleColorEmoji;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 <!-- Title -->\
+<!-- Title -->\
 <h1 align="center">Hello World \
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" \
        width="30px">\
   </h2></h1>\
-\
-\
 <!-- Quote -->\
 <p align="center">I would like to change the World but they won't give me the source code\
-  \
   <!-- Social Network -->\
 <h1 align="center">\
 <a href="https://www.instagram.com/lunox.code/">\
@@ -23,52 +13,40 @@
        width="22px" \
        src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />\
   </a>\
-  \
 <a href="https://www.linkedin.com/in/lunox/">\
   <img align="center" \
        alt="Linkdein" \
        width="22px" \
-       src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />\
-  </a>\
-\
-  <a href="https://www.codegrepper.com/app/profile.php?id=79189">\
+       src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
+  </a>
+  <a href="https://www.codegrepper.com/app/profile.php?id=79189">
   <img align="center" \
        alt="Grepper" \
        width="22px" \
-       src="https://user-images.githubusercontent.com/55005374/103146498-0b537600-4710-11eb-949e-bff2c2ab7391.png" />\
-  </a>\
-  \
-<a href="https://stackoverflow.com/users/12381868/lunox?tab=profile">\
+       src="https://user-images.githubusercontent.com/55005374/103146498-0b537600-4710-11eb-949e-bff2c2ab7391.png" />
+  </a>
+<a href="https://stackoverflow.com/users/12381868/lunox?tab=profile">
   <img align="center" \
        alt="Stack Overflow" \
        width="22px" \
-       src="https://user-images.githubusercontent.com/55005374/103146236-e52bd700-470b-11eb-861e-e6f549b02b88.png" />\
-  </a>\
-  \
+       src="https://user-images.githubusercontent.com/55005374/103146236-e52bd700-470b-11eb-861e-e6f549b02b88.png" />
+  </a>
 <a href="mailto:lunox.code@gmail.com">\
   <img align="center" \
        alt="Gmail" \
        width="22px" \
-       src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />\
-  </a>\
-</h1>\
-\
-\
-\
-\
+       src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
+  </a>
+</h1>
+
 <!-- Background -->\
-\
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)\
-\
-&nbsp;\
-\
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)
+
 <!-- Technical Skills -->\
 <p><H3 align="center"><strong> Technical Skills: 
-\f1 \uc0\u55357 \u56507 
-\f0  </strong></p>\
-  \
+</strong></p>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125531-160e6580-35bf-11eb-8256-f599b154f3ee.png"></code>\
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146278-8ca90980-470c-11eb-90bd-8e20951c9146.png"></code>\
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>\
