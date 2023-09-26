@@ -6,8 +6,8 @@
 <table style="none">
   <tr>
     <td><img align="center" src="https://i.imgur.com/49McsIE.png" width=32px href="www.linkedin.com/in/luis-fernandez-martinez-0bb845255"/></td>
-    <td>2</td>
-    <td>3</td>
+    <td><img align="center" src="https://i.imgur.com/GmVyYAz.png" width=32px href="www.linkedin.com/in/luis-fernandez-martinez-0bb845255"/></td>
+    <td><img align="center" src="https://i.imgur.com/49McsIE.png" width=32px href="www.linkedin.com/in/luis-fernandez-martinez-0bb845255"/></td>
   </tr>
 </table>    
 </div>
