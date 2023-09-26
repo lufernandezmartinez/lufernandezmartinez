@@ -5,7 +5,7 @@
 <div align="center">
 <table>
   <tr>
-    <td><img align="center" src="https://imgur.com/49McsIE"</td>
+    <td><img align="center" src="https://i.imgur.com/49McsIE.png"</td>
     <td>2</td>
     <td>3</td>
   </tr>
