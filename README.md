@@ -2,6 +2,7 @@
 <h1 align="center">Luis Fernández</h1>
 <!-- Quote -->
 <p align="center">FullStack Developer</p>
+<p align="center"> Page in construction...</p>
 <div align="center">
 <table style="none">
   <tr>
