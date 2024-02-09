@@ -1,3 +1,3 @@
 # Luis Fernández Martinez
-## Fullstack developer
-### He / Him
+Fullstack developer
+He / Him
