@@ -1,3 +1,14 @@
+<style>
+        /* CSS to make the table fill the available width */
+        table {
+            width: 100%;
+            border-collapse: collapse; /* Optional: collapse borders for a cleaner look */
+        }
+        tr, td {
+            border: 1px solid black; /* Optional: Add borders to cells */
+            padding: 8px; /* Optional: Add padding to cells for better readability */
+        }
+</style>
 <!-- NAME -->
 <h1 align="center">
     Luis Fernández Martinez
