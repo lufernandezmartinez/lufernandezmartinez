@@ -1,14 +1,10 @@
-<!-- Title -->
+<!-- NAME -->
 <h1 align="center">
     Luis Fernández Martinez
     <img src="https://i.imgur.com/a0Vis9k.gif" height="30" width="30" alt="Waving hand">
 </h1>
-<div>
-    <a style="text-align: center;">Java Developer</a>
-</div>
-
-<!-- Quote -->
-<p align="center">I would like to change the World but they won't give me the source code
+<!-- OCCUPATION -->
+<p align="center">Java Developer</p>
     
     <!-- Social Network -->
 <h1 align="center">
