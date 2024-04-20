@@ -2,9 +2,9 @@
 <h1 align="center">
     Luis Fernández Martinez
     <img src="https://i.imgur.com/a0Vis9k.gif" height="30" width="30" alt="Waving hand">
+    <br><p align="center">Java Developer</p>
 </h1>
 <!-- OCCUPATION -->
-<p align="center">Java Developer</p>
     
     <!-- Social Network -->
 <h1 align="center">
