@@ -3,7 +3,7 @@
     Luis Fernández Martinez
     <img src="https://i.imgur.com/a0Vis9k.gif" height="30" width="30" alt="Waving hand">
 </h1>
-<h2>Java Developer</h2>
+<a style="text-align: center;">Java Developer</a>
 
 
 <!-- Quote -->
