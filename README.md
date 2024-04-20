@@ -34,15 +34,10 @@
            </td>
                 <td>
                     <a href="mailto:luisfernandezmartinezz@gmail.com">
-    <img align="center" 
-              alt="Gmail" 
-              width="22px" 
-              src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
-    </a>
+                    <img align="center" alt="Gmail" width="22px" src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
+                    </a>
                 </td>
-                </tr>
-
-
+        </tr>
     </table>
 </div>
 <!-- Background -->
