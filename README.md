@@ -3,32 +3,48 @@
     Luis Fernández Martinez
     <img src="https://i.imgur.com/a0Vis9k.gif" height="30" width="30" alt="Waving hand">
     <br><p align="center">Java Developer</p>
-</h1>    
+</h1>   
 <!-- Social Network -->
-<div align="center">
-    <!-- LINKEDIN -->
-<a href="https://www.linkedin.com/in/lufermy/">
-    <img src="https://i.imgur.com/49McsIE.png" height="30" alt="LinkedIn"
-</a>
-    <!-- MASTODON -->
-<a href="https://www.linkedin.com/in/lufermy/">
-    <img src="https://i.imgur.com/49McsIE.png" height="30" alt="LinkedIn"
-</a>
-    <!-- LEETCODE -->
-<a href="https://www.linkedin.com/in/lufermy/">
-    <img src="https://i.imgur.com/49McsIE.png" height="30" alt="LinkedIn"
-</a>
-    <!-- STACK OVERFLOW -->
-<a href="https://stackoverflow.com/users/16035464/lufermy">
-    <img src="https://i.imgur.com/GmVyYAz.png" height="30" alt="Stack Overflow"
-</a>    
-<a href="mailto:luisfernandezmartinezz@gmail.com">
+<div width="100%" align="center">
+    <table id="social-networks">
+       <tr>
+           <td>
+                <!-- LINKEDIN -->
+                <a href="https://www.linkedin.com/in/lufermy/">
+                <img src="https://i.imgur.com/49McsIE.png" height="30" alt="LinkedIn"
+                </a>
+           </td>
+           <td>
+                <!-- MASTODON -->
+                <a href="https://www.linkedin.com/in/lufermy/">
+                <img src="https://i.imgur.com/49McsIE.png" height="30" alt="LinkedIn"
+                </a>
+           </td>
+           <td>
+                <!-- LEETCODE -->
+                <a href="https://www.linkedin.com/in/lufermy/">
+                <img src="https://i.imgur.com/49McsIE.png" height="30" alt="LinkedIn"
+                </a>
+           </td>
+           <td>
+                <!-- STACK OVERFLOW -->
+                <a href="https://stackoverflow.com/users/16035464/lufermy">
+                <img src="https://i.imgur.com/GmVyYAz.png" height="30" alt="Stack Overflow"
+                </a>
+           </td>
+                <td>
+                    <a href="mailto:luisfernandezmartinezz@gmail.com">
     <img align="center" 
               alt="Gmail" 
               width="22px" 
               src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
     </a>
-</h1>
+                </td>
+                </tr>
+
+
+    </table>
+</div>
 <!-- Background -->
 <div align="center">
 <img align="center" alt="photo-header" src="https://i.imgur.com/ErBSsXK.jpg"/>
