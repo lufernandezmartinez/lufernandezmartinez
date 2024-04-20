@@ -1,14 +1,3 @@
-<style>
-        /* CSS to make the table fill the available width */
-        table {
-            width: 100%;
-            border-collapse: collapse; /* Optional: collapse borders for a cleaner look */
-        }
-        tr, td {
-            border: 1px solid black; /* Optional: Add borders to cells */
-            padding: 8px; /* Optional: Add padding to cells for better readability */
-        }
-</style>
 <!-- NAME -->
 <h1 align="center">
     Luis Fernández Martinez
@@ -45,7 +34,7 @@
            </td>
                 <td>
                     <a href="mailto:luisfernandezmartinezz@gmail.com">
-                    <img align="center" alt="Gmail" width="22px" src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
+                    <img align="center" alt="Gmail" width="22px" src="https://i.imgur.com/08JgbaI.png" />
                     </a>
                 </td>
         </tr>
