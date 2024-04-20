@@ -1,7 +1,7 @@
 <!-- Title -->
 <h1 align="center">Hello World 
-    <img src="https://imgur.com/a/HYJjQZs" 
-             height="10" width="10" alt="Waving hand">
+    <img src="https://i.imgur.com/a0Vis9k.gif" 
+             height="30" width="30" alt="Waving hand">
     </h2></h1>
 
 
