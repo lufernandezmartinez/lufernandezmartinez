@@ -71,7 +71,7 @@ I am committed to continuous learning and am always looking for new opportunitie
     <code><img height="40" src="https://i.imgur.com/n2YX672.png" alt="Cisco"></code>
     <code><img height="40" src="https://i.imgur.com/hOqrIfL.png" alt="Android"></code>
     <code><img height="40" src="https://i.imgur.com/CPT6Y3q.png" alt="Fortinet"></code>
-    <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688411-345f7280-0bc7-11eb-9513-82e0452a81eb.png"></code>
+    <code><img height="40" src="https://i.imgur.com/p2gH40V.png" alt="cpp"></code>
     <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100307358-3c068b00-2f6b-11eb-9f07-e262ad248471.png"></code>
     <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686171-87cac400-0bb9-11eb-9d49-390f3543a0a6.png"></code>
     <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686553-d4170380-0bbb-11eb-94f2-c528413c7bad.png"></code>
