@@ -40,6 +40,19 @@
         </tr>
     </table>
 </div>
+<a>
+    Passionate and dedicated networking professional with over 5 years experience in the industry. I have worked with a variety of market leading brands, mainly Cisco, Mikrotik, Huawei, Teldat, Juniper and Fortinet.
+
+My experience ranges from network planning and design to implementation and management, always looking for efficiency in every project. I specialise in designing scalable and secure network architectures, with a particular focus on cybersecurity to protect organisations' digital assets.
+
+I have 1 year of experience and knowledge of Linux server and system management, as well as Active Directory and AWS.
+
+In addition, I have knowledge and experience in structured cabling, mainly in fibre optics ensuring a physical infrastructure with optimal performance in speeds.
+
+My skill set is complemented by programming knowledge in Java and PHP, which allows me to develop customised solutions and optimise processes to suit the specific needs of each project.
+
+I am committed to continuous learning and am always looking for new opportunities to grow professionally and contribute to the success of my team and organisation.
+</a>
 <!-- Background -->
 <div align="center">
 <img align="center" alt="photo-header" src="https://i.imgur.com/ErBSsXK.jpg"/>
