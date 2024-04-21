@@ -62,6 +62,7 @@ I am committed to continuous learning and am always looking for new opportunitie
 
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Skills: 💻 </strong></H3></p>
+<div align="center">
     <code><img height="40" src="https://i.imgur.com/YvznDWk.png" alt="Java"></code>
     <code><img height="40" src="https://i.imgur.com/PmA4XLn.png" alt="Spring"></code>
     <code><img height="40" src="https://i.imgur.com/krq9akH.png" alt="Rest"></code>
@@ -71,7 +72,9 @@ I am committed to continuous learning and am always looking for new opportunitie
     <code><img height="40" src="https://i.imgur.com/n2YX672.png" alt="Cisco"></code>
     <code><img height="40" src="https://i.imgur.com/hOqrIfL.png" alt="Android"></code>
     <code><img height="40" src="https://i.imgur.com/CPT6Y3q.png" alt="Fortinet"></code>
-    <code><img height="40" src="https://i.imgur.com/p2gH40V.png" alt="cpp"></code>  
+    <code><img height="40" src="https://i.imgur.com/p2gH40V.png" alt="cpp"></code>
+</div>
+  
 <br><br>
 
     <!-- Skills to learn -->
