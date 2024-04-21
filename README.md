@@ -61,34 +61,18 @@ I am committed to continuous learning and am always looking for new opportunitie
 &nbsp;
 
 <!-- Technical Skills -->
-<p><H3 align="center"><strong> Skills: 💻 </strong></p>
+<p><H3 align="center"><strong> Skills: 💻 </strong></H3></p>
     <code><img height="40" src="https://i.imgur.com/YvznDWk.png" alt="Java"></code>
     <code><img height="40" src="https://i.imgur.com/PmA4XLn.png" alt="Spring"></code>
     <code><img height="40" src="https://i.imgur.com/krq9akH.png" alt="Rest"></code>
-        <code><img height="40" src="https://i.imgur.com/hOqrIfL.png" alt="Android"></code>
+    <code><img height="40" src="https://i.imgur.com/hOqrIfL.png" alt="Android"></code>
     <code><img height="40" src="https://i.imgur.com/XTJGYM0.png" alt="Python"></code>
     <code><img height="40" src="https://i.imgur.com/o3fYe20.jpeg" alt="Mikrotik"></code>
     <code><img height="40" src="https://i.imgur.com/n2YX672.png" alt="Cisco"></code>
     <code><img height="40" src="https://i.imgur.com/hOqrIfL.png" alt="Android"></code>
     <code><img height="40" src="https://i.imgur.com/CPT6Y3q.png" alt="Fortinet"></code>
-    <code><img height="40" src="https://i.imgur.com/p2gH40V.png" alt="cpp"></code>
-    <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100307358-3c068b00-2f6b-11eb-9f07-e262ad248471.png"></code>
-    <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686171-87cac400-0bb9-11eb-9d49-390f3543a0a6.png"></code>
-    <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686553-d4170380-0bbb-11eb-94f2-c528413c7bad.png"></code>
-    <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686705-d9c11900-0bbc-11eb-87f5-a149b86cde5a.png"></code>
-    <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png"></code>
-    <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687393-a2546b80-0bc0-11eb-8991-c0c72326f29c.png"></code>
-    <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687569-95844780-0bc1-11eb-8bdb-93fb29d10602.png"></code>
-    <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687639-117e8f80-0bc2-11eb-8aea-f236a8eca50b.png"></code>
-    <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png"></code>
-    <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png"></code>
-    <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687701-80f47f00-0bc2-11eb-89f5-a1a8e6788aeb.png"></code>
-    <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688226-c6ff1200-0bc5-11eb-82cc-33e35bcb0910.png"></code>
-    <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688875-5dcdcd80-0bca-11eb-8915-b3cf9791ca3c.png"></code>
-
-    </p>
-    
-&nbsp;    
+    <code><img height="40" src="https://i.imgur.com/p2gH40V.png" alt="cpp"></code>  
+<br><br>
 
     <!-- Skills to learn -->
 <p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
