@@ -22,8 +22,8 @@
            </td>
            <td>
                 <!-- LEETCODE -->
-                <a href="https://www.linkedin.com/in/lufermy/">
-                <img src="https://i.imgur.com/49McsIE.png" height="30" alt="LinkedIn"
+                <a href="https://leetcode.com/lufermy/">
+                <img src="https://i.imgur.com/49McsIE.png" height="30" alt="Leetcode"
                 </a>
            </td>
            <td>
