@@ -49,14 +49,15 @@
 
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Skills: 💻 </strong></p>
+    <code><img height="40" src="https://i.imgur.com/YvznDWk.png" alt="Java"></code>
     <code><img height="40" src="https://i.imgur.com/PmA4XLn.png" alt="Spring"></code>
-    <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146278-8ca90980-470c-11eb-90bd-8e20951c9146.png"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-    <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png"></code>
-    <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146335-3d170d80-470d-11eb-9fce-ff775c77b96b.png"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-    <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146218-b57ccf00-470b-11eb-8fcc-aa46cab9253f.png"></code>
+    <code><img height="40" src="https://i.imgur.com/krq9akH.png" alt="Rest"></code>
+        <code><img height="40" src="https://i.imgur.com/hOqrIfL.png" alt="Android"></code>
+    <code><img height="40" src="https://i.imgur.com/XTJGYM0.png" alt="Python"></code>
+    <code><img height="40" src="https://i.imgur.com/o3fYe20.jpeg" alt="Mikrotik"></code>
+    <code><img height="40" src="https://i.imgur.com/n2YX672.png" alt="Cisco"></code>
+    <code><img height="40" src="https://i.imgur.com/hOqrIfL.png" alt="Android"></code>
+    <code><img height="40" src="https://i.imgur.com/CPT6Y3q.png" alt="Fortinet"></code>
     <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688411-345f7280-0bc7-11eb-9513-82e0452a81eb.png"></code>
     <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100307358-3c068b00-2f6b-11eb-9f07-e262ad248471.png"></code>
     <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686171-87cac400-0bb9-11eb-9d49-390f3543a0a6.png"></code>
