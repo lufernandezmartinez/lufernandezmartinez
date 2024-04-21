@@ -23,7 +23,7 @@
            <td>
                 <!-- LEETCODE -->
                 <a href="https://leetcode.com/lufermy/">
-                <img src="https://i.imgur.com/49McsIE.png" height="30" alt="Leetcode"
+                <img src="https://i.imgur.com/FhxR7aS.png" height="30" alt="Leetcode"
                 </a>
            </td>
            <td>
