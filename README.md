@@ -93,5 +93,5 @@ I am committed to continuous learning and am always looking for new opportunitie
 <!-- GitHub Stats -->
 <H2 align="center"><strong>GitHub Statistics: 📈</strong></H2>
 <div align="center">
-      ![Lufermy's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)  
+    [![Lufermy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lufermy)](https://github.com/anuraghazra/github-readme-stats)
 </div>
