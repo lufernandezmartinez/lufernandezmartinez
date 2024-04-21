@@ -41,7 +41,7 @@
     </table>
 </div>
 <a>
-    Passionate and dedicated networking professional with over 5 years experience in the industry. I have worked with a variety of market leading brands, mainly Cisco, Mikrotik, Huawei, Teldat, Juniper and Fortinet.
+Passionate and dedicated networking professional with over 5 years experience in the industry. I have worked with a variety of market leading brands, mainly Cisco, Mikrotik, Huawei, Teldat, Juniper and Fortinet.
 
 My experience ranges from network planning and design to implementation and management, always looking for efficiency in every project. I specialise in designing scalable and secure network architectures, with a particular focus on cybersecurity to protect organisations' digital assets.
 
