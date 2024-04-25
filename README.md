@@ -10,7 +10,7 @@
        <tr>
            <td>
                 <!-- LINKEDIN -->
-                <a href="https://www.linkedin.com/in/lufermy/">
+                <a href="https://www.linkedin.com/in/lufenandezmartinez/">
                 <img src="https://i.imgur.com/49McsIE.png" height="30" alt="LinkedIn"
                 </a>
            </td>
@@ -22,7 +22,7 @@
            </td>
            <td>
                 <!-- LEETCODE -->
-                <a href="https://leetcode.com/lufermy/">
+                <a href="https://leetcode.com/lufernandezmartinez/">
                 <img src="https://i.imgur.com/FhxR7aS.png" height="30" alt="Leetcode"
                 </a>
            </td>
