@@ -28,7 +28,7 @@
            </td>
            <td>
                 <!-- STACK OVERFLOW -->
-                <a href="https://stackoverflow.com/users/16035464/lufermy">
+                <a href="https://stackoverflow.com/users/16035464">
                 <img src="https://i.imgur.com/GmVyYAz.png" height="30" alt="Stack Overflow"
                 </a>
            </td>
