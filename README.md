@@ -79,6 +79,11 @@ I am committed to continuous learning and am always looking for new opportunitie
 
 <!-- GitHub Stats -->
 <H2 align="center"><strong>GitHub Statistics: 📈</strong></H2>
-<div align="center">
-    [![Lufermy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lufermy)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=lufernandezmartinez&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lufernandezmartinez&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=lufernandezmartinez&style=for-the-badge&color=orange" alt=""/>
 </div>
+
